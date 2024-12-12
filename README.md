@@ -6,4 +6,4 @@ Repositorio para el proyecto 2 del examen de Entornos
    Una vez dentro de la página tenemos que bajar un poco y darle a Installation>Download.
    Nos enviará a una página de Microsoft donde tendremos que darle nuevamente a "Install".
    Nos abrirá una pestaña diciendo si puede ejecutar VSCode, le damos a que si y le damos a Instalar dentro de VSC. Y listo.
-3. 
+3. Desde VSC vamos a usar el GitHub Copilot, le podemos introducir un prompt (yo lo haré en inglés por si acaso da más información) como el que vemos en la foto 
