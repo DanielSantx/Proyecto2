@@ -1,0 +1,1 @@
+<form action=""><label htmlFor=""></label><input type="text" name="query" id="" /><button type="submit"></button><label htmlFor=""></label><input type="text" name="query" id="" /><button type="submit"></button></form>
