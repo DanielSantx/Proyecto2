@@ -8,3 +8,4 @@ Repositorio para el proyecto 2 del examen de Entornos
    Nos abrirá una pestaña diciendo si puede ejecutar VSCode, le damos a que si y le damos a Instalar dentro de VSC. Y listo.
 3. Desde VSC vamos a usar el GitHub Copilot, le podemos introducir un prompt (yo lo haré en inglés por si acaso da más información) como el que vemos en la foto.
 4. Ahora vamos a crear otro código con EMMET, tenemos que introducir una serie de parámetros para que pueda crear el código. (Hay imagen de ello).
+5. Para hacer una petición con la API debemos abrirla desde VSC crear un nuevo proyecto y dentro de este hacer una petición nueva (en mi caso a marca.com)
